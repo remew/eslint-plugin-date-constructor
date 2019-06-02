@@ -6,7 +6,7 @@
   "author": "remew <foolishremew@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint"
+    "lint": "eslint src"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
