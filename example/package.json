@@ -1,0 +1,14 @@
+{
+  "name": "eslint-plugin-date-constructor-sample",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/remew/eslint-plugin-date-constructor.git",
+  "author": "remew <foolishremew@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
