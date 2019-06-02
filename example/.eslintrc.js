@@ -13,6 +13,10 @@ module.exports = {
     "ecmaVersion": 2018,
     "sourceType": "module"
   },
+  "plugins": [
+    'date-constructor',
+  ],
   "rules": {
+    'date-constructor/only-iso8601': 'error',
   }
 };
