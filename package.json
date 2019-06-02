@@ -5,6 +5,9 @@
   "repository": "https://github.com/remew/eslint-plugin-date-constructor.git",
   "author": "remew <foolishremew@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "node tests/only-iso8601.js"
+  },
   "devDependencies": {
     "eslint": "^5.16.0"
   }
